@@ -4,4 +4,5 @@ In the Demo, TextField is editing when user press Home button, then user tap app
 At this time, if you can continue typing，previous text would be appear and the text frame has changed(offset down).
 Who knows why?
 
-ps:I have found solution,but i want to know the causes.
+PS:I have found [solution](http://stackoverflow.com/a/21092705/4485494),but I want to know the causes.
+see [this](http://stackoverflow.com/a/21092705/4485494) It seems to be a bug!
